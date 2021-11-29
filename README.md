@@ -23,7 +23,7 @@ URL:
   ```
    - 2. To Run the Program
   ```bash
-  ./producer & ./consumer &
+  ./Banker
   ```
   
   ## Output
