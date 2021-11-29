@@ -13,7 +13,7 @@ sudo apt-get install g++
 ## Installation
   - 1. Clone the repo 
 ``` bash 
-URL:
+URL: https://github.com/jfried16/Operating-Systems-Programming-Assignment-2.git
 ```
 
 ## To Run the Code for Yourself
